@@ -1,24 +1,4 @@
-# first_name = input("What`s your name? ").capitalize()
-# last_name = input("What`s your surname? ").capitalize()
-
-# def hello(n, s):
-#     print(f"Hello, {n} {s}!")
-
-# def name(n):
-#     print(f"Your name is: {n}")
-
-# def surname(s):
-#     print(f"Your surname is: {s}")
-
-# def initial(n, s):
-#     print(f"Your initials are: {n:.1}. {s:.1}.")
-
-# hello(first_name, last_name)
-# name(first_name)
-# surname(last_name)
-# initial(first_name, last_name)
-# 4 функции(деф) - название функции(сумма/умножение)
-# если ввести оператор +, тогда запускается функция (условие на проверку и внутри вызов функции)
+# It`s calculator, it tackes x and y and operator from the user, and shows the result of the operation
 x = float(input("Tap first number: "))
 y = float(input("Tap second number: "))
 opr = input("Tap operator: ")
