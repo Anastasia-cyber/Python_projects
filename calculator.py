@@ -24,7 +24,7 @@ elif opr == "*":
 elif opr == "/":
     degree(x, y)
 else:
-    print("Знак введен неверно")
+    print("Symbol entered incorrectly")
 
 
 
